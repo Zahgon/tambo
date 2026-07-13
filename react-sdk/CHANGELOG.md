@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.3.1](https://github.com/tambo-ai/tambo/compare/react-v1.3.0...react-v1.3.1) (2026-07-13)
+
+
+### Bug Fixes
+
+* **deps:** update ag-ui to v0.0.57 ([#2966](https://github.com/tambo-ai/tambo/issues/2966)) ([4e14c18](https://github.com/tambo-ai/tambo/commit/4e14c18d562957394e3d0575262908dd71c8fec8))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @tambo-ai/client bumped from 1.2.0 to 1.2.1
+
 ## [1.3.0](https://github.com/tambo-ai/tambo/compare/react-v1.2.8...react-v1.3.0) (2026-06-15)
 
 
