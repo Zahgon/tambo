@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.34.2](https://github.com/tambo-ai/tambo/compare/docs-v1.34.1...docs-v1.34.2) (2026-07-13)
+
+
+### Bug Fixes
+
+* **deps:** bump dompurify to ^3.4.11 ([#2972](https://github.com/tambo-ai/tambo/issues/2972)) ([b73ed83](https://github.com/tambo-ai/tambo/commit/b73ed83dab16b1daf48ef7e8eb0e613794f6901c))
+
+
+### Miscellaneous Chores
+
+* **deps:** update dependency @types/node to v22.19.21 ([#2960](https://github.com/tambo-ai/tambo/issues/2960)) ([e6a2a6d](https://github.com/tambo-ai/tambo/commit/e6a2a6d77f742ab4cc3f52238c4020eedd30b1dd))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @tambo-ai/react bumped from * to 1.3.1
+    * @tambo-ai/react-ui-base bumped from * to 0.1.13
+
 ## [1.34.1](https://github.com/tambo-ai/tambo/compare/docs-v1.34.0...docs-v1.34.1) (2026-06-16)
 
 
