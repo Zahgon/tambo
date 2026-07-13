@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.135.2](https://github.com/tambo-ai/tambo/compare/web-v0.135.1...web-v0.135.2) (2026-07-13)
+
+
+### Bug Fixes
+
+* **deps:** bump dompurify to ^3.4.11 ([#2972](https://github.com/tambo-ai/tambo/issues/2972)) ([b73ed83](https://github.com/tambo-ai/tambo/commit/b73ed83dab16b1daf48ef7e8eb0e613794f6901c))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @tambo-ai/react bumped from * to 1.3.1
+
 ## [0.135.1](https://github.com/tambo-ai/tambo/compare/web-v0.135.0...web-v0.135.1) (2026-06-16)
 
 
