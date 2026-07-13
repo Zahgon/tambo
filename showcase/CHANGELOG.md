@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.38.1](https://github.com/tambo-ai/tambo/compare/showcase-v0.38.0...showcase-v0.38.1) (2026-07-13)
+
+
+### Bug Fixes
+
+* **deps:** bump dompurify to ^3.4.11 ([#2972](https://github.com/tambo-ai/tambo/issues/2972)) ([b73ed83](https://github.com/tambo-ai/tambo/commit/b73ed83dab16b1daf48ef7e8eb0e613794f6901c))
+
+
+### Miscellaneous Chores
+
+* **deps:** update eslint to v16.2.9 ([#2962](https://github.com/tambo-ai/tambo/issues/2962)) ([3964a8a](https://github.com/tambo-ai/tambo/commit/3964a8a6551abf9b0f678f9ace3029be38ecc858))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @tambo-ai/react bumped from * to 1.3.1
+
 ## [0.38.0](https://github.com/tambo-ai/tambo/compare/showcase-v0.37.7...showcase-v0.38.0) (2026-06-16)
 
 
