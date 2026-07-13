@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.56.3](https://github.com/tambo-ai/tambo/compare/tambo-v0.56.2...tambo-v0.56.3) (2026-07-13)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @tambo-ai/react bumped from * to 1.3.1
+
 ## [0.56.2](https://github.com/tambo-ai/tambo/compare/tambo-v0.56.1...tambo-v0.56.2) (2026-06-16)
 
 
